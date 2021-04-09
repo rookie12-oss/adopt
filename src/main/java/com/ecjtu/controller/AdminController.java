@@ -115,7 +115,7 @@ public class AdminController {
 
     @RequestMapping("logout.action")
     public String logout(){
-        return "admin/login";
+        return "index";
     }
 
 }

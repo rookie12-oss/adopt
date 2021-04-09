@@ -43,12 +43,12 @@
                                 <span class="icon icon-key margin-small"></span>
                             </div>
                         </div>
-                        <div class="form-group v_container">
-                            <div class="field">
-                                <input type="text" class="input input-big" name="code" placeholder="验证码" />
-                                <div id="v_container" style="width: 100px;height: 45px;" class="passcode"></div>
-                            </div>
-                        </div>
+<%--                        <div class="form-group v_container">--%>
+<%--                            <div class="field">--%>
+<%--                                <input type="text" class="input input-big" name="code" placeholder="验证码" />--%>
+<%--                                <div id="v_container" style="width: 100px;height: 45px;" class="passcode"></div>--%>
+<%--                            </div>--%>
+<%--                        </div>--%>
                     <div style="padding:30px;">
                         <input type="submit" id="button" class="button button-block bg-main text-big input-big" value="登录">
                     </div>
