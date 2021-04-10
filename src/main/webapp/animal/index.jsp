@@ -136,12 +136,12 @@
             <h3>流浪猫狗展示</h3>
             <div class="agileinfo_footer_grid1">
                 <a href="#">
-                    <img src="../images/f7.jpg" alt=" " class="img-responsive">
+                    <img src="../images/f2.jpg" alt=" " class="img-responsive">
                 </a>
             </div>
             <div class="agileinfo_footer_grid1">
                 <a href="#">
-                    <img src="../images/f2.jpg" alt=" " class="img-responsive">
+                    <img src="../images/f7.jpg" alt=" " class="img-responsive">
                 </a>
             </div>
             <div class="agileinfo_footer_grid1">

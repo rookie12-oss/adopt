@@ -22,7 +22,7 @@ public class FileLoad {
         String substring = fileName.substring(fileName.lastIndexOf("."));
         //上传文件
         try {
-            file.transferTo(new File("D:/sky/" + picName + substring));
+            file.transferTo(new File("C:/Users/admin/Desktop/毕设/adopt/src/main/webapp/images" + picName + substring));
         } catch (IOException e) {
             e.printStackTrace();
         }

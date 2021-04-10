@@ -209,7 +209,7 @@ label {
     text-decoration: none;
     width: 50px;
     height: 50px;
-    background: transparent url(../images/arrows.png) no-repeat left top;
+    background: transparent url(../images/667249df-f526-41a4-89f3-b51bc327cba1.jpg) no-repeat left top;
 }
 
 .callbacks_nav.next {
@@ -757,7 +757,10 @@ button.button3-w3l {
 /*-- blog --*/
 
 .blog {
-    background: url(../images/bg3.jpg)no-repeat center fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../images/bg3.jpg);
+    background-attachment: fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
